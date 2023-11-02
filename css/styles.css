@@ -1,0 +1,114 @@
+/* @font-face {
+    font-family: "Kaushan";
+    src: local('Kaushan'), url("/assets/fonts/KaushanScript-Regular.ttf");
+} */
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 2rem;
+    margin: 0%;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: auto 1fr auto;    
+}
+
+
+header{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    /* background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); */
+    /* background-color: #BEADFA; */
+    background-color: #6499E9;
+    height: 60px;
+    border: 2px solid black;
+    /* box-shadow: 0px 15px 10px #FACE7F; */
+    box-shadow: 0px 15px 10px #FFF8C9;
+    margin-bottom: 20px;
+}
+
+.header-titulo{
+    width: 320px;
+    text-align: center;
+}
+
+/* Tamaño de imagen vino y copa */
+.vino-y-copa {
+    margin-top: 8px;
+    width: 50px;
+    height: 50px;
+}
+
+
+/* Colores y bordes de mapa */
+.mapamexico {
+    fill: rgb(255, 248, 231);
+    stroke: black;
+    stroke-width: 2;
+    /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(237,3,32,0.87) 20.8%, rgba(242,121,1,0.84) 74.4% ); */
+    background-color: #9EDDFF;
+    margin-bottom: 10px;
+}
+
+.nombres-estados{
+    /* display: none; */
+    stroke: none;
+}
+
+/* Estados vinicolas-mensaje-interactividad */
+[href] {
+    /* fill: #507DBC; */
+    fill: rgba(0, 173, 153, 1);
+}
+
+/* Enlaces disponibles y no disponibles */
+[href]:hover , [href]:active{
+    content: attr(title);
+    fill:#C62E65;
+    stroke: red;
+    stroke-width: 3px;
+    transition: fill 0.9s;
+    transform: scale(1.05);
+    transform-box: fill-box; 
+    transform-origin: center;
+}
+
+footer {
+    height: 60px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    /* box-shadow: 0px -15px 10px #FACE7F; */
+    box-shadow: 0px -15px 10px #FFF8C9;
+    /* background: linear-gradient(90deg, rgb(131, 58, 180) 0%, rgb(253, 29, 29) 50%, rgba(252,176,69,1) 100%); */
+    /* background-color: #BEADFA; */
+    background-color: #6499E9;
+}
+
+.estados-vinicolas{
+    /* margin-top: 20px; */
+    width: 280px;
+    text-align: center;
+}
+
+.cuadro{
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: rgba(0, 173, 153, 1);
+    border: 2px solid black;;
+    border-radius: 10px;
+}
+
