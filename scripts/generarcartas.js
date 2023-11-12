@@ -574,8 +574,7 @@ function datos() {
     },
     {
       nombre: "Bodega 1881",
-      facebook:
-        "https://www.facebook.com/pages/Vi%C3%B1edo-Bodega-1881/500870443402216",
+      facebook: "https://www.facebook.com/Bodega1881",
       instagram: "https://www.instagram.com/bodega_1881/",
       paginaweb: "",
     },
