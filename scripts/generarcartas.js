@@ -394,6 +394,12 @@ function datos() {
       instagram: "https://www.instagram.com/vinedossanfrancisco/",
       paginaweb: "https://www.vinedossanfrancisco.com/",
     },
+    {
+      nombre: "Vinos Babal",
+      facebook: "https://www.facebook.com/vinobabal",
+      instagram: "https://www.instagram.com/vinobabal/",
+      paginaweb: "https://www.babal.mx/",
+    },
   ];
 
   const aguascalientes = [
@@ -563,6 +569,12 @@ function datos() {
       instagram: "https://www.instagram.com/vinostierraadentro/",
       paginaweb: "https://www.vinostierraadentro.net/inicio",
     },
+    {
+      nombre: "Lopex Rosso Cavas",
+      facebook: "https://www.facebook.com/LopezRossoCavas",
+      instagram: "https://www.instagram.com/lopezrossocavas",
+      paginaweb: "https://lopezrossocavas.mx/",
+    }
   ];
 
   const sanluispotosi = [
@@ -1343,11 +1355,21 @@ function datos() {
       facebook: "https://www.facebook.com/vinoselete",
       instagram: "https://www.instagram.com/vinoselete/",
       paginaweb: "https://vinoselete.com/"
+    },
+    {
+      nombre: "Alto Tinto",
+      facebook: "https://www.facebook.com/VinoAltotinto?fref=ts",
+      instagram: "https://www.instagram.com/altotinto/",
+      paginaweb: "https://www.altotinto.com.mx/index.php"
+    },
+    {
+      nombre: "Descendientes de Charles Martinez",
+      facebook: "https://www.facebook.com/charlesmartinez.mx",
+      instagram: "https://www.instagram.com/charlesmartinez.mx",
+      paginaweb: "https://www.charlesmartinez.com.mx/"
     }
   ]
-  
-  
-
+   
   const nayarit = [
     {
       nombre: "Viñedo Meseta del Cielo",
