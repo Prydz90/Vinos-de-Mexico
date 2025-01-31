@@ -530,6 +530,12 @@ function datos() {
       instagram: "https://www.instagram.com/Bodegasjacques/",
       paginaweb: "https://bodegasjacques.com/",
     },
+    {
+      nombre: "Vinos Anonimo",
+      facebook: "https://www.facebook.com/TintoAnonimo",
+      instagram: "https://www.instagram.com/vinosanonimo/",
+      paginaweb: "https://www.anonimovinos.com/",
+    }
   ];
 
   const zacatecas = [
@@ -693,6 +699,18 @@ function datos() {
       instagram: "https://www.instagram.com/haciendaflorida/",
       paginaweb: "https://haciendaflorida.com.mx/",
     },
+    {
+      nombre: "Bodegas Punto Norte",
+      facebook: "https://www.facebook.com/VinosPuntoNorte",
+      instagram: "https://www.instagram.com/vinospuntonorte/",
+      paginaweb: "https://sites.google.com/view/bodegaspuntonorte/",
+    },
+    {
+      nombre: "Camino Corazon",
+      facebook: "https://www.facebook.com/CaminoCorazonCasaVinicola",
+      instagram: "https://www.instagram.com/caminocorazon/",
+      paginaweb: "https://caminocorazon.com.mx/",
+    }
   ];
 
   const chihuahua = [
@@ -762,6 +780,18 @@ function datos() {
       instagram: "https://www.instagram.com/encinillas/",
       paginaweb: "https://vinosencinillas.com/",
     },
+    {
+      nombre: "Viñedos Mision",
+      facebook: "https://www.facebook.com/vinosmision",
+      instagram: "https://www.instagram.com/vinos.mision/",
+      paginaweb: "https://vinosmision.com/",
+    },
+    {
+      nombre: "Vinicola Diez Gonzalez",
+      facebook: "https://www.facebook.com/vinicoladiezgonzalez",
+      instagram: "https://www.instagram.com/vinicola_diez_gonzalez/",
+      paginaweb: "https://vinicoladiezgonzalez.com.mx/",
+    }
   ];
 
   const sonora = [
@@ -1241,6 +1271,78 @@ function datos() {
       facebook: "https://www.facebook.com/casazamorabodegadevino/",
       instagram: "https://www.instagram.com/casa_zamora",
       paginaweb: "http://casazamora.com.mx/",
+    },
+    {
+      nombre: "Llano Colorado",
+      facebook: "https://www.facebook.com/LlanoColorado.MX/",
+      instagram: "https://www.instagram.com/llanocolorado.mx/",
+      paginaweb: "https://www.llanocolorado.mx/",
+    },
+    {
+      nombre: "Bodegas Magoni",
+      facebook: "https://www.facebook.com/bodegasmagoni/",
+      instagram: "https://www.facebook.com/bodegasmagoni/",
+      paginaweb: "https://casamagoni.com/",
+    },
+    {
+      nombre: "Maria Tinto",
+      facebook: "https://www.facebook.com/VinoMariatinto",
+      instagram: "https://www.instagram.com/vinomariatinto/",
+      paginaweb: "https://mariatinto.com/"
+    },
+    {
+      nombre: "Vinos Totol",
+      facebook: "https://www.facebook.com/holaTotol/",
+      instagram: "https://www.instagram.com/holatotol/",
+      paginaweb: "https://www.totol.mx/"
+    },
+    {
+      nombre: "Valle de Tintos",
+      facebook: "https://www.facebook.com/valledetintos/",
+      instagram: "https://www.instagram.com/valledetintos/?hl=es",
+      paginaweb: "https://www.valledetintos.com/"
+    },
+    {
+      nombre: "Bodegas Icaro",
+      facebook: "https://www.facebook.com/profile.php?id=100063700442619",
+      instagram: "https://www.instagram.com/espiritusenologicos/",
+      paginaweb: "https://bodegasicaro.com/"
+    },
+    {
+      nombre: "Espitirus Enologicos",
+      facebook: "https://www.facebook.com/espiritusenologicos",
+      instagram: "https://www.instagram.com/bodegas_icaro/?hl=en",
+      paginaweb: "https://espiritusenologicos.com.mx/"
+    },
+    {
+      nombre: "Vinos Plata",
+      facebook: "https://www.facebook.com/profile.php?id=100064088979941",
+      instagram: "https://www.instagram.com/vinos.plata",
+      paginaweb: "https://www.vinosplata.mx/"
+    },
+    {
+      nombre: "Vinicola el Cielo",
+      facebook: "https://www.facebook.com/ElCieloValleDeGuadalupe/",
+      instagram: "https://www.instagram.com/elcielovalledeguadalupe/?hl=es-la",
+      paginaweb: "https://vinoselcielo.com/"
+    },
+    {
+      nombre: "Pictograma Vinos",
+      facebook: "",
+      instagram: "https://www.instagram.com/pictogramavinos/",
+      paginaweb: "https://pictogramavino.com/"
+    },
+    {
+      nombre: "Vinicola Relieve",
+      facebook: "https://www.facebook.com/VinicolaRelieve/",
+      instagram: "https://www.instagram.com/vinosrelieve/",
+      paginaweb: "https://relievevinicola.mx/"
+    },
+    {
+      nombre: "Vinos LT",
+      facebook: "https://www.facebook.com/vinoselete",
+      instagram: "https://www.instagram.com/vinoselete/",
+      paginaweb: "https://vinoselete.com/"
     }
   ]
   
