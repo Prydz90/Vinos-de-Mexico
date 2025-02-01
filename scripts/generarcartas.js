@@ -660,7 +660,7 @@ function datos() {
       nombre: "Bodega los Cedros",
       facebook: "https://www.facebook.com/bodegaloscedros/",
       instagram: "https://www.instagram.com/bodegaloscedros/",
-      paginaweb: "https://bodegaloscedros.com/legal/",
+      paginaweb: "",
     },
     {
       nombre: "Bodegas del Viento",
@@ -684,7 +684,7 @@ function datos() {
       nombre: "Bodega Las Pudencianas",
       facebook: "https://www.facebook.com/laspudencianas",
       instagram: "https://www.instagram.com/laspudencianas/",
-      paginaweb: "",
+      paginaweb: "https://www.laspudencianas.com/",
     },
     {
       nombre: "Vinícola Parvada",
@@ -700,10 +700,9 @@ function datos() {
     },
     {
       nombre: "Bodegas Ferriño",
-      facebook:
-        "https://www.facebook.com/pages/Bodegas-Ferri%C3%B1o/560536677318404",
+      facebook:  "https://www.facebook.com/bodegasferrinooficial",
       instagram: "https://www.instagram.com/bodegasferrino/",
-      paginaweb: "",
+      paginaweb: "http://www.bodegasferrino.com.mx/",
     },
     {
       nombre: "Hacienda Florida Vinícola",
