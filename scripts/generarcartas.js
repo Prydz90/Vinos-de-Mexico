@@ -1379,6 +1379,21 @@ function datos() {
     }
   ]
 
+  const baja_california_sur = [
+    {
+      nombre: "Viñedo Las Tinajas",
+      facebook: "https://www.facebook.com/lastinajaswinery/",
+      instagram: "https://www.instagram.com/LASTINAJASWINERY/",
+      paginaweb: "https://lastinajas.mx/"
+    },
+    {
+      nombre: "Rancho La Venta",
+      facebook: "https://www.facebook.com/bajabirding",
+      instagram: "https://www.instagram.com/rancho_laventa",
+      paginaweb: "https://www.rancholaventa.com/"
+    }
+  ]
+
   let estadoHeaderElement = document.querySelector(".estado").textContent;
 
   switch (estadoHeaderElement) {
@@ -1424,6 +1439,9 @@ function datos() {
     case "Baja California Norte":
       generarCartas(bajacalifornianorte);
       break;
+    case "Baja California Sur":
+        generarCartas(baja_california_sur);
+        break;
     case 'Nayarit':
       generarCartas(nayarit);
       break;
