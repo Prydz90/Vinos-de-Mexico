@@ -732,6 +732,30 @@ function datos() {
       facebook: "https://www.facebook.com/CaminoCorazonCasaVinicola",
       instagram: "https://www.instagram.com/caminocorazon/",
       paginaweb: "https://caminocorazon.com.mx/",
+    },
+    {
+      nombre: "Bodegas RGMX",
+      facebook: "https://www.facebook.com/BodegaRGMX",
+      instagram: "https://www.instagram.com/rgmx.mx",
+      paginaweb: "https://rgmx.mx/",
+    },
+    {
+      nombre: "Vinos los Pinos",
+      facebook: "https://www.facebook.com/vinoslospinos",
+      instagram: "https://www.instagram.com/vinoslospinos/",
+      paginaweb: "https://www.vinoslospinos.com/",
+    },
+    {
+      nombre: "Casa Naufrago",
+      facebook: "https://www.facebook.com/casa.naufrago",
+      instagram: "https://www.instagram.com/casanaufrago/",
+      paginaweb: "https://www.casanaufrago.com",
+    },
+    {
+      nombre: "Bodega Terra Serena",
+      facebook: "https://www.facebook.com/bodegaterraserena.mx/",
+      instagram: "https://www.instagram.com/bodegaterraserena.mx",
+      paginaweb: "https://www.bodegaterraserena.mx/",
     }
   ];
 
