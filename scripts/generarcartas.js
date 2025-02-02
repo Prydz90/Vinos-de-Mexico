@@ -105,8 +105,7 @@ function datos() {
     {
       nombre: "Viñedos Paso de Serra",
       facebook: "https://www.facebook.com/profile.php?id=100090488688208",
-      instagram:
-        "https://www.instagram.com/vinedospasodeserra/?fbclid=IwAR2LcU5nXZiRcNbRvgBOqojnOUK0q2ZAgM8iAaoJWuDSnSDcejG_4phJc_8",
+      instagram: "https://www.instagram.com/vinedospasodeserra/?fbclid=IwAR2LcU5nXZiRcNbRvgBOqojnOUK0q2ZAgM8iAaoJWuDSnSDcejG_4phJc_8",
       paginaweb: "https://pasodeserrabodegas.com.mx/",
     },
     {
@@ -221,10 +220,16 @@ function datos() {
       paginaweb: "https://www.vinadelcielo.mx/",
     },
     {
-      nombre: "Vina del cielo",
-      facebook: "https://www.facebook.com/vinedosdelpolo",
-      instagram: "https://www.instagram.com/vinedosdelpolo/",
-      paginaweb: "",
+      nombre: "Norte B",
+      facebook: "https://www.facebook.com/norteb.mx/",
+      instagram: "https://www.instagram.com/norteb.mx/",
+      paginaweb: "https://norteb.mx/",
+    },
+    {
+      nombre: "Viñedo La Revuelta",
+      facebook: "https://www.facebook.com/LaRevueltaVineyard",
+      instagram: "https://www.instagram.com/larevuelta_vineyard_btq/",
+      paginaweb: "https://larevuelta.com.mx/",
     },
   ];
 
