@@ -837,6 +837,12 @@ function datos() {
       facebook: "https://www.facebook.com/vinicoladiezgonzalez",
       instagram: "https://www.instagram.com/vinicola_diez_gonzalez/",
       paginaweb: "https://vinicoladiezgonzalez.com.mx/",
+    },
+    {
+      nombre: "Casa Establo",
+      facebook: "https://www.facebook.com/casaestablo/",
+      instagram: "https://www.instagram.com/casa_establo/",
+      paginaweb: "",
     }
   ];
 
