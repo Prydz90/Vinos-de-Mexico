@@ -282,6 +282,12 @@ function datos() {
       instagram: "https://www.instagram.com/cavapostdata/",
       paginaweb: "",
     },
+    {
+      nombre: "Quinta Fabiana",
+      facebook: "https://www.facebook.com/QuintaFabianaHotelBoutique/",
+      instagram: "https://www.instagram.com/quintafabiana/",
+      paginaweb: "",
+    }
   ];
 
   const guanajuato = [
