@@ -1139,12 +1139,6 @@ function datos() {
       paginaweb: "",
     },
     {
-      nombre: "Vinicola JC Bravo",
-      facebook: "https://www.facebook.com/JCBravoVinos",
-      instagram: "https://www.instagram.com/jcbravo_vinicola/",
-      paginaweb: "",
-    },
-    {
       nombre: "Vinos Shimul",
       facebook: "https://www.facebook.com/vinosshimul/",
       instagram: "https://www.instagram.com/vinosshimul/",
@@ -1289,7 +1283,7 @@ function datos() {
       paginaweb: "https://duomavinos.com/",
     },
     {
-      nombre: "Cava Dragon",
+      nombre: "Bodega VMD / Cava Dragon",
       facebook: "https://www.facebook.com/cavadragon",
       instagram: "https://www.instagram.com/cavadragon/",
       paginaweb: "https://www.cavadragon.com/",
@@ -1407,6 +1401,324 @@ function datos() {
       facebook: "https://www.facebook.com/charlesmartinez.mx",
       instagram: "https://www.instagram.com/charlesmartinez.mx",
       paginaweb: "https://www.charlesmartinez.com.mx/"
+    },
+    {
+      nombre: "Bodega Barisal",
+      facebook: "https://www.facebook.com/vinosbarisal",
+      instagram: "https://www.instagram.com/vinosbarisal",
+      paginaweb: "https://www.bodegabarisal.com/"
+    },
+    {
+      nombre: "Vinos Nivel",
+      facebook: "https://www.facebook.com/JuanvinosNivel/",
+      instagram: "https://www.instagram.com/vinos_nivel_/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Cavas Valmar",
+      facebook: "https://www.facebook.com/vinos.valmar",
+      instagram: "https://www.instagram.com/cavasvalmar/",
+      paginaweb: "https://cavasvalmar.mx/"
+    },
+    {
+      nombre: "Clauidius Viña Y Bodega",
+      facebook: "https://www.facebook.com/claudiusvino",
+      instagram: "",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinicola Raices",
+      facebook: "https://www.facebook.com/vinoraices/?locale=es_LA",
+      instagram: "https://www.instagram.com/vinicola_raices/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Diosa Vid",
+      facebook: "https://www.facebook.com/DiosaVid/",
+      instagram: "https://www.instagram.com/diosavidvinos/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Villas Carmadi",
+      facebook: "https://www.facebook.com/p/Villas-Carmadi-100076486562508/",
+      instagram: "https://www.instagram.com/villa_carmadi",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinicola 3 Mujeres",
+      facebook: "https://www.facebook.com/Vinicola3Mujeres/",
+      instagram: "https://www.instagram.com/vinicola3mujeres/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinicola Retorno",
+      facebook: "https://www.facebook.com/vinicolaretorno/",
+      instagram: "https://www.instagram.com/vinicolaretorno/",
+      paginaweb: "https://www.vinicolaretorno.com/"
+    },
+    {
+      nombre: "Epicentro Vitivinicola",
+      facebook: "https://www.facebook.com/epicentrovitivinicola",
+      instagram: "https://www.instagram.com/epicentrovitivinicola/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Cava Mazuelo",
+      facebook: "https://www.facebook.com/CavaMazuelo",
+      instagram: "https://www.instagram.com/cava_mazuelo/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Finca La Carrodilla",
+      facebook: "https://www.facebook.com/fincalacarrodilla",
+      instagram: "https://www.instagram.com/fincalacarrodilla/",
+      paginaweb: "https://fincalacarrodilla.meitre.com/"
+    },
+    {
+      nombre: "Santos Brujos",
+      facebook: "https://www.facebook.com/bodegamexicanacertificada/",
+      instagram: "https://www.instagram.com/santosbrujos/",
+      paginaweb: "https://santosbrujos.com/"
+    },
+    {
+      nombre: "Cava Vintango",
+      facebook: "https://www.facebook.com/cavavintango/",
+      instagram: "",
+      paginaweb: ""
+    },
+    {
+      nombre: "Mogor Badan",
+      facebook: "https://www.facebook.com/cavavintango/",
+      instagram: "https://www.instagram.com/mogor.badan/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinicola Kruger",
+      facebook: "https://www.facebook.com/p/Vinicola-Kruger-100057660871315/",
+      instagram: "https://www.instagram.com/vinoskruger/",
+      paginaweb: "https://vinoskruger.com/"
+    },
+    {
+      nombre: "Norte 32",
+      facebook: "https://www.facebook.com/Norte32",
+      instagram: "https://www.instagram.com/vinosnorte32/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Ojo Azul Winery Resort",
+      facebook: "https://www.facebook.com/ojoazulresort",
+      instagram: "https://www.instagram.com/ojoazulresort/",
+      paginaweb: "https://ojoazulresort.com/es?currency=MXN"
+    },
+    {
+      nombre: "Ojo Azul Winery Resort",
+      facebook: "https://www.facebook.com/ojoazulresort",
+      instagram: "https://www.instagram.com/ojoazulresort/",
+      paginaweb: "https://ojoazulresort.com/es?currency=MXN"
+    },
+    {
+      nombre: "Cava Sarquis Castellanos",
+      facebook: "https://www.facebook.com/CavaSarquisCastellanos",
+      instagram: "https://www.instagram.com/cava.sc/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Cava Zaragoza",
+      facebook: "https://www.facebook.com/cavazaragoza",
+      instagram: "https://www.instagram.com/cavazaragoza",
+      paginaweb: "http://www.cavazaragoza.com.mx/"
+    },
+    {
+      nombre: "Encino de Piedra Vinicola",
+      facebook: "https://www.facebook.com/encinodepiedra",
+      instagram: "https://www.instagram.com/encinodepiedra.vinicola/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinicola La Nuestra",
+      facebook: "https://www.facebook.com/vinicolalanuestra",
+      instagram: "https://www.instagram.com/vinicolalanuestra/",
+      paginaweb: "https://vinicolalanuestra.com/"
+    },
+    {
+      nombre: "Vinicola Misiones de California",
+      facebook: "https://www.facebook.com/profile.php?id=100063962228769",
+      instagram: "https://www.instagram.com/misiones_de_california/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinos Martlot",
+      facebook: "https://www.facebook.com/vinosmartlot",
+      instagram: "https://www.instagram.com/martlotvinos",
+      paginaweb: "https://vinosmartlot.com/"
+    },
+    {
+      nombre: "Corona del Valle",
+      facebook: "https://www.facebook.com/bodegacoronadelvalle",
+      instagram: "https://www.instagram.com/coronadelvalle",
+      paginaweb: "https://www.coronadelvalle.com.mx/"
+    },
+    {
+      nombre: "Vinos Anacronica",
+      facebook: "https://www.facebook.com/mezcalborroso",
+      instagram: "https://www.instagram.com/anatolia.vinos/?hl=es-la",
+      paginaweb: "https://www.anacronica.com.mx/"
+    },
+    {
+      nombre: "Vinos Magbel",
+      facebook: "https://www.facebook.com/magbelvinos",
+      instagram: "https://www.instagram.com/magbel.bodega",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinos Trasiego",
+      facebook: "https://www.facebook.com/vinostrasiego",
+      instagram: "https://www.instagram.com/vinostrasiego/",
+      paginaweb: "https://copatinta.com/"
+    },
+    {
+      nombre: "Dueñas de la Vid",
+      facebook: "https://www.facebook.com/p/Due%C3%B1as-de-la-Vid-100076232460737/",
+      instagram: "https://www.instagram.com/duenasdelavid/",
+      paginaweb: "https://vinosduenasdelavid.com/"
+    },
+    {
+      nombre: "Vinicola Punto y Aparte",
+      facebook: "https://www.facebook.com/VinicolaPuntoyAparte",
+      instagram: "https://www.instagram.com/vinicolapuntoyaparte",
+      paginaweb: "https://www.poncelis.mx/vpya"
+    },
+    {
+      nombre: "Roganto",
+      facebook: "https://www.facebook.com/profile.php?id=100071033560385",
+      instagram: "https://www.instagram.com/rogantobodega/",
+      paginaweb: "https://www.roganto.com/"
+    },
+    {
+      nombre: "Cava Cordova",
+      facebook: "https://www.facebook.com/cavacordova",
+      instagram: "https://www.instagram.com/cavacordova/",
+      paginaweb: "https://www.cavacordova.com/"
+    },
+    {
+      nombre: "Dovinto",
+      facebook: "https://www.facebook.com/dovintovinicola",
+      instagram: "https://www.instagram.com/dovintomx/",
+      paginaweb: "https://dovinto.com/"
+    },
+    {
+      nombre: "Bodega La Resistance",
+      facebook: "https://www.facebook.com/bodegalaresistance",
+      instagram: "https://www.instagram.com/bodegalaresistance/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Pasion de Luna",
+      facebook: "https://www.facebook.com/profile.php?id=100042219146433",
+      instagram: "",
+      paginaweb: ""
+    },
+    {
+      nombre: "Fincas MX",
+      facebook: "https://www.facebook.com/profile.php?id=100031835602271",
+      instagram: "https://www.instagram.com/fincasmx/",
+      paginaweb: "https://www.fincasmx.com/"
+    },
+    {
+      nombre: "Vinos Tanama",
+      facebook: "https://www.facebook.com/vinostanama",
+      instagram: "",
+      paginaweb: ""
+    },
+    {
+      nombre: "Viñedos Santo Domingo",
+      facebook: "https://www.facebook.com/vinicolasantodomingo",
+      instagram: "https://www.instagram.com/vinicolasantodomingo/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinos Gassol",
+      facebook: "https://www.facebook.com/vinosgassol",
+      instagram: "",
+      paginaweb: "https://www.vinosgassol.com/"
+    },
+    {
+      nombre: "Diosa Vid",
+      facebook: "https://www.facebook.com/DiosaVid",
+      instagram: "https://www.instagram.com/diosavidvinos/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Diosa Vid",
+      facebook: "https://www.facebook.com/DiosaVid",
+      instagram: "https://www.instagram.com/diosavidvinos/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Hacienda Montero",
+      facebook: "https://www.facebook.com/Haciendamontero",
+      instagram: "https://www.instagram.com/vinoshaciendamontero",
+      paginaweb: "https://haciendamontero.com.mx/"
+    },
+    {
+      nombre: "Nativo Vinicola",
+      facebook: "https://www.facebook.com/profile.php?id=100063504371122",
+      instagram: "https://www.instagram.com/nativovinicola",
+      paginaweb: "https://vinicolanativo.com/"
+    },
+    {
+      nombre: "Bodega Symmetria",
+      facebook: "https://www.facebook.com/BodegaSymmetria",
+      instagram: "https://www.instagram.com/bodegasymmetria/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinos Rolu",
+      facebook: "https://www.facebook.com/roluvinos",
+      instagram: "https://www.instagram.com/roluvinos/",
+      paginaweb: "https://www.rolu.mx/"
+    },
+    {
+      nombre: "Pasion Biba",
+      facebook: "https://www.facebook.com/pasionbiba/",
+      instagram: "",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinos Paralelo",
+      facebook: "https://www.facebook.com/VinosEnsambleParalelo",
+      instagram: "https://www.instagram.com/vinosparalelo",
+      paginaweb: "https://www.vyva.mx/paralelo"
+    },
+    {
+      nombre: "Vinicola Roa",
+      facebook: "https://www.facebook.com/VinicolaRoa",
+      instagram: "https://www.instagram.com/vinicolaroa/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinos Cruz",
+      facebook: "https://www.facebook.com/VinosCruzMacias",
+      instagram: "https://www.instagram.com/vinoscruz/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Vinicola Bajalupano",
+      facebook: "https://www.facebook.com/bajalupano",
+      instagram: "https://www.instagram.com/bajalupanobc/",
+      paginaweb: "https://www.bajalupano.com/"
+    },
+    {
+      nombre: "Vinos Fuentes",
+      facebook: "https://www.facebook.com/VinosFuentesArtesanales/",
+      instagram: "https://www.instagram.com/vinosfuentes08/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Casa Colorada",
+      facebook: "https://www.facebook.com/vinocasacolorada/",
+      instagram: "https://www.instagram.com/vinosfuentes08/",
+      paginaweb: "https://vinocasacolorada.weebly.com/"
     }
   ]
    
@@ -1414,7 +1726,7 @@ function datos() {
     {
       nombre: "Viñedo Meseta del Cielo",
       facebook: "https://www.facebook.com/MesetaDelCielo",
-      instagram: "https://www.instagram.com/mesetadelcielo.nayarit/",
+      instagram: "https://www.instagram.com/cava_mazuelo/",
       paginaweb: "",
     }
   ]
