@@ -1810,7 +1810,6 @@ function generarCartas(estado) {
 
   estado.forEach((valor) => {
     let { nombre, facebook, instagram, paginaweb } = valor;
-    // console.log("El valor es: "+ value.nombre + " "+ value.facebook + value.instagram+ value.paginaweb);
     cartasHTML += `
         <div class="card">
         <img src="/assets/images/vinedos.webp" alt="vinedosmexicanos" class="img-vinedos">
@@ -1830,17 +1829,15 @@ function generarCartas(estado) {
     </div>`;
   });
 
-  console.log(cartasHTML);
-
   sectionElement.insertAdjacentHTML("afterbegin", cartasHTML);
 }
 
 function quitarEnlaces(){
     let noDisponible = document.querySelectorAll('[href=""]');
     noDisponible.forEach((valor) => {
-      console.log(valor.getAttribute("title"));
-      console.log(valor.setAttribute("title", "No disponible"));
-      console.log(valor.removeAttribute("href"));
+      valor.getAttribute("title");
+      valor.setAttribute("title", "No disponible");
+      valor.removeAttribute("href");
     });
 }
 
