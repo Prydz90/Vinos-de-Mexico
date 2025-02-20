@@ -553,6 +553,13 @@ function datos() {
       instagram: "https://www.instagram.com/vinosanonimo/",
       paginaweb: "https://www.anonimovinos.com/",
     }
+    ,
+    {
+      nombre: "Somms 8",
+      facebook: "https://www.facebook.com/somms8",
+      instagram: "https://www.instagram.com/somms8/",
+      paginaweb: "",
+    }
   ];
 
   const zacatecas = [
