@@ -1726,6 +1726,36 @@ function datos() {
       facebook: "https://www.facebook.com/vinocasacolorada/",
       instagram: "https://www.instagram.com/vinosfuentes08/",
       paginaweb: "https://vinocasacolorada.weebly.com/"
+    },
+    {
+      nombre: "Casa Righetti",
+      facebook: "https://www.facebook.com/casarighettimx",
+      instagram: "https://www.instagram.com/casa.righetti/",
+      paginaweb: ""
+    },
+    {
+      nombre: "Xolo",
+      facebook: "https://www.facebook.com/profile.php?id=100063991667818",
+      instagram: "https://www.instagram.com/xolo.vino/",
+      paginaweb: "https://xolovino.com/es/"
+    },
+    {
+      nombre: "Clos Benoit",
+      facebook: "https://www.facebook.com/ClosBenoit/",
+      instagram: "https://www.instagram.com/clos.benoit/",
+      paginaweb: "https://closbenoit.com/"
+    },
+    {
+      nombre: "Adobe Guadalupe",
+      facebook: "https://www.facebook.com/adobeguadalupe",
+      instagram: "https://www.instagram.com/adobeguadalupewinery/",
+      paginaweb: "https://adobeguadalupe.com/"
+    },
+    {
+      nombre: "Bodegas Domecq",
+      facebook: "https://www.facebook.com/bodegasdomecqmx",
+      instagram: "https://www.instagram.com/bodegasdomecq/",
+      paginaweb: "https://www.bodegasdomecq.com/"
     }
   ]
    
