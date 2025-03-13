@@ -763,6 +763,30 @@ function datos() {
       facebook: "https://www.facebook.com/bodegaterraserena.mx/",
       instagram: "https://www.instagram.com/bodegaterraserena.mx",
       paginaweb: "https://www.bodegaterraserena.mx/",
+    },
+    {
+      nombre: "Vitali",
+      facebook: "https://www.facebook.com/vinosvitalimexico",
+      instagram: "https://www.instagram.com/vinosvitalimexico/",
+      paginaweb: "https://vinosvitali.com.mx/",
+    },
+    {
+      nombre: "Cuatro Angeles",
+      facebook: "https://www.facebook.com/VinosCuatroAngeles",
+      instagram: "https://www.instagram.com/vinoscuatroangeles/",
+      paginaweb: "",
+    },
+    {
+      nombre: "San Juan de la Vaqueria",
+      facebook: "https://www.facebook.com/sanjuandelavaqueria",
+      instagram: "https://www.instagram.com/vino_sanjuandelavaqueria/",
+      paginaweb: "https://sanjuandelavaqueria.com/",
+    },
+    {
+      nombre: "Conexion Ancestral",
+      facebook: "https://www.facebook.com/VinicolaConexionAncestral",
+      instagram: "https://www.instagram.com/vinicolaconexionancestral/",
+      paginaweb: "",
     }
   ];
 
