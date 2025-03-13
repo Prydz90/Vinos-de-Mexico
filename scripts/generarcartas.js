@@ -850,6 +850,30 @@ function datos() {
       facebook: "https://www.facebook.com/casaestablo/",
       instagram: "https://www.instagram.com/casa_establo/",
       paginaweb: "",
+    },
+    {
+      nombre: "Viñedo los Portales",
+      facebook: "https://www.facebook.com/profile.php?id=100092109847306",
+      instagram: "https://www.instagram.com/losportalesvinedo/",
+      paginaweb: "",
+    },
+    {
+      nombre: "Piñamora",
+      facebook: "https://www.facebook.com/profile.php?id=100092109847306",
+      instagram: "https://www.instagram.com/pinamoravino/?hl=es",
+      paginaweb: "https://pinamora.com/",
+    },
+    {
+      nombre: "Turbina",
+      facebook: "https://www.facebook.com/vinedoslaturbina",
+      instagram: "https://www.instagram.com/vinedoslaturbina",
+      paginaweb: "https://www.laturbina.mx/",
+    },
+    {
+      nombre: "Vinicola la Victoria",
+      facebook: "https://www.facebook.com/profile.php?id=61563444338874&locale=es_LA",
+      instagram: "https://www.instagram.com/vinicola_lavictoria",
+      paginaweb: "",
     }
   ];
 
