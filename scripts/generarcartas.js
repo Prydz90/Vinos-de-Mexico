@@ -664,7 +664,7 @@ function datos() {
       facebook: "https://www.facebook.com/VinicolaMaravillas",
       instagram: "https://www.instagram.com/VinicolaMaravillas/",
       paginaweb: "",
-    },
+    }
   ];
 
   const coahuila = [
@@ -678,7 +678,7 @@ function datos() {
       nombre: "Bodega los Cedros",
       facebook: "https://www.facebook.com/bodegaloscedros/",
       instagram: "https://www.instagram.com/bodegaloscedros/",
-      paginaweb: "",
+      paginaweb: "https://bodegaloscedros.com/",
     },
     {
       nombre: "Bodegas del Viento",
