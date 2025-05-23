@@ -817,6 +817,12 @@ function datos() {
       facebook: "https://www.facebook.com/VinicolaConexionAncestral",
       instagram: "https://www.instagram.com/vinicolaconexionancestral/",
       paginaweb: "",
+    },
+    {
+      nombre: "Rancho el Fortin",
+      facebook: "https://www.facebook.com/elfortinranch",
+      instagram: "https://www.instagram.com/ranchoelfortin/",
+      paginaweb: "https://www.ranchoelfortin.com/",
     }
   ];
 
