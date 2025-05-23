@@ -559,6 +559,36 @@ function datos() {
       facebook: "https://www.facebook.com/somms8",
       instagram: "https://www.instagram.com/somms8/",
       paginaweb: "",
+    },
+    {
+      nombre: "Somos Vino",
+      facebook: "https://www.facebook.com/vinosalsacia",
+      instagram: "https://www.instagram.com/somos.vino/",
+      paginaweb: "https://somosvino.shop/",
+    },
+    {
+      nombre: "Vinicola del Rocio",
+      facebook: "https://www.facebook.com/profile.php?id=61566828197515",
+      instagram: "https://www.instagram.com/somos.vino/",
+      paginaweb: "",
+    },
+    {
+      nombre: "Cosecha 3",
+      facebook: "https://www.facebook.com/profile.php?id=100054742871175",
+      instagram: "https://www.instagram.com/cosechatres/",
+      paginaweb: "",
+    },
+    {
+      nombre: "Kasa Xawat",
+      facebook: "https://www.facebook.com/profile.php?id=100063576185375",
+      instagram: "https://www.instagram.com/kasa_xawat/",
+      paginaweb: "https://linki.to/kasa-xawat",
+    },
+    {
+      nombre: "Casa de Quino",
+      facebook: "https://www.facebook.com/profile.php?id=61564512489884",
+      instagram: "https://www.instagram.com/casadequino/",
+      paginaweb: "https://casadequino.com/",
     }
   ];
 
