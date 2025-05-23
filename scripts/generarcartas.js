@@ -718,7 +718,7 @@ function datos() {
     },
     {
       nombre: "Bodegas Ferriño",
-      facebook:  "https://www.facebook.com/bodegasferrinooficial",
+      facebook: "https://www.facebook.com/bodegasferrinooficial",
       instagram: "https://www.instagram.com/bodegasferrino/",
       paginaweb: "http://www.bodegasferrino.com.mx/",
     },
@@ -916,9 +916,9 @@ function datos() {
     }
   ];
 
-  const bajacalifornianorte=[
+  const bajacalifornianorte = [
     {
-    nombre: "Vinicola De Becerra",
+      nombre: "Vinicola De Becerra",
       facebook: "https://www.facebook.com/profile.php?id=100070658747937",
       instagram: "https://www.instagram.com/vinicoladebecerra/",
       paginaweb: "http://vinicoladebecerra.com/test/",
@@ -1806,7 +1806,7 @@ function datos() {
       paginaweb: "https://www.bodegasdomecq.com/"
     }
   ]
-   
+
   const nayarit = [
     {
       nombre: "Viñedo Meseta del Cielo",
@@ -1828,6 +1828,16 @@ function datos() {
       facebook: "https://www.facebook.com/bajabirding",
       instagram: "https://www.instagram.com/rancho_laventa",
       paginaweb: "https://www.rancholaventa.com/"
+    }
+  ]
+
+
+  const tamaulipas = [
+    {
+      nombre: "Viñedo Monterredondo",
+      facebook: "https://www.facebook.com/profile.php?id=100076125130556",
+      instagram: "https://www.instagram.com/vina_monterredondo/",
+      paginaweb: ""
     }
   ]
 
@@ -1877,10 +1887,13 @@ function datos() {
       generarCartas(bajacalifornianorte);
       break;
     case "Baja California Sur":
-        generarCartas(baja_california_sur);
-        break;
+      generarCartas(baja_california_sur);
+      break;
     case 'Nayarit':
       generarCartas(nayarit);
+      break;
+    case 'Tamaulipas':
+      generarCartas(tamaulipas);
       break;
     default:
       break;
@@ -1917,13 +1930,13 @@ function generarCartas(estado) {
   sectionElement.insertAdjacentHTML("afterbegin", cartasHTML);
 }
 
-function quitarEnlaces(){
-    let noDisponible = document.querySelectorAll('[href=""]');
-    noDisponible.forEach((valor) => {
-      valor.getAttribute("title");
-      valor.setAttribute("title", "No disponible");
-      valor.removeAttribute("href");
-    });
+function quitarEnlaces() {
+  let noDisponible = document.querySelectorAll('[href=""]');
+  noDisponible.forEach((valor) => {
+    valor.getAttribute("title");
+    valor.setAttribute("title", "No disponible");
+    valor.removeAttribute("href");
+  });
 }
 
 quitarEnlaces();
