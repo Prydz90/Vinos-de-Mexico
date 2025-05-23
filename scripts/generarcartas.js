@@ -1602,12 +1602,6 @@ function datos() {
       paginaweb: "https://ojoazulresort.com/es?currency=MXN"
     },
     {
-      nombre: "Ojo Azul Winery Resort",
-      facebook: "https://www.facebook.com/ojoazulresort",
-      instagram: "https://www.instagram.com/ojoazulresort/",
-      paginaweb: "https://ojoazulresort.com/es?currency=MXN"
-    },
-    {
       nombre: "Cava Sarquis Castellanos",
       facebook: "https://www.facebook.com/CavaSarquisCastellanos",
       instagram: "https://www.instagram.com/cava.sc/",
@@ -1840,6 +1834,12 @@ function datos() {
       facebook: "https://www.facebook.com/bodegasdomecqmx",
       instagram: "https://www.instagram.com/bodegasdomecq/",
       paginaweb: "https://www.bodegasdomecq.com/"
+    },
+    {
+      nombre: "Vinicola OS",
+      facebook: "https://www.facebook.com/vinicolaos",
+      instagram: "https://www.instagram.com/vinicolaos/",
+      paginaweb: "https://vinicolaos.com/"
     }
   ]
 
