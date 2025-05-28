@@ -287,6 +287,18 @@ function datos() {
       facebook: "https://www.facebook.com/QuintaFabianaHotelBoutique/",
       instagram: "https://www.instagram.com/quintafabiana/",
       paginaweb: "",
+    },
+    {
+      nombre: "Alma Alquimista",
+      facebook: "",
+      instagram: "https://www.instagram.com/drinkalma/",
+      paginaweb: "https://enjoyalma.com/",
+    },
+    {
+      nombre: "Vitorino Casa Aguiñaga",
+      facebook: "",
+      instagram: "https://www.instagram.com/vitorino_casaaguinaga/",
+      paginaweb: "",
     }
   ];
 
