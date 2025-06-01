@@ -237,6 +237,12 @@ function datos() {
       instagram: "https://www.instagram.com/larevuelta_vineyard_btq/",
       paginaweb: "https://larevuelta.com.mx/",
     },
+    {
+      nombre: "Viñedos del Jagüey",
+      facebook: "https://www.facebook.com/profile.php?id=61551428327684&sk=photos",
+      instagram: "https://www.instagram.com/vinedosdeljaguey/",
+      paginaweb: "",
+    },
   ];
 
   const jalisco = [
