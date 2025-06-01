@@ -570,7 +570,7 @@ function datos() {
       nombre: "Somms 8",
       facebook: "https://www.facebook.com/somms8",
       instagram: "https://www.instagram.com/somms8/",
-      paginaweb: "",
+      paginaweb: "https://somms8.com/",
     },
     {
       nombre: "Somos Vino",
