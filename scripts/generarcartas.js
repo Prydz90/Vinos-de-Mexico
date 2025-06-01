@@ -27,6 +27,12 @@ function datos() {
       instagram: "https://www.instagram.com/casamiguelhernandez/",
       paginaweb: "",
     },
+    {
+      nombre: "Viñedo Santo Domingo ",
+      facebook: "https://www.facebook.com/CavaSantoDomingo",
+      instagram: "https://www.instagram.com/vinedosantodomingo/",
+      paginaweb: "https://www.santodomingo.com.mx/",
+    },
   ];
 
   const michoacan = [
