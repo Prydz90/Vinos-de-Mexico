@@ -660,10 +660,16 @@ function datos() {
       paginaweb: "https://www.vinostierraadentro.net/inicio",
     },
     {
-      nombre: "Lopex Rosso Cavas",
+      nombre: "Lopez Rosso Cavas",
       facebook: "https://www.facebook.com/LopezRossoCavas",
       instagram: "https://www.instagram.com/lopezrossocavas",
       paginaweb: "https://lopezrossocavas.mx/",
+    },
+    {
+      nombre: "La Casona",
+      facebook: "https://www.facebook.com/vinos.lacasona",
+      instagram: "https://www.instagram.com/vinoslacasona/",
+      paginaweb: "",
     }
   ];
 
