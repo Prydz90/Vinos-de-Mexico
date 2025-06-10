@@ -323,6 +323,12 @@ function datos() {
       facebook: "https://www.facebook.com/BodegaGravitas",
       instagram: "https://www.instagram.com/bodegagravitas/",
       paginaweb: "",
+    },
+    {
+      nombre: "Finca Monteperegrino",
+      facebook: "https://www.facebook.com/FincaMontePeregrino",
+      instagram: "https://www.instagram.com/fincamonteperegrino",
+      paginaweb: "https://monteperegrino.com/",
     }
   ];
 
