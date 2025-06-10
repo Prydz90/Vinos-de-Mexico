@@ -249,6 +249,12 @@ function datos() {
       instagram: "https://www.instagram.com/vinedosdeljaguey/",
       paginaweb: "",
     },
+    {
+      nombre: "Bodegas Jacques & Cie",
+      facebook: "https://www.facebook.com/BodegasJacques",
+      instagram: "https://www.instagram.com/Bodegasjacques/",
+      paginaweb: "https://bodegasjacques.com/",
+    },
   ];
 
   const jalisco = [
@@ -582,12 +588,6 @@ function datos() {
       facebook: "https://www.facebook.com/PraonDeMaria",
       instagram: "https://www.instagram.com/vinedospraon/",
       paginaweb: "http://www.praondemaria.com/",
-    },
-    {
-      nombre: "Bodegas Jacques & Cie",
-      facebook: "https://www.facebook.com/BodegasJacques",
-      instagram: "https://www.instagram.com/Bodegasjacques/",
-      paginaweb: "https://bodegasjacques.com/",
     },
     {
       nombre: "Vinos Anonimo",
