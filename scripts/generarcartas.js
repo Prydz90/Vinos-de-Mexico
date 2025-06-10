@@ -1888,6 +1888,12 @@ function datos() {
       facebook: "https://www.facebook.com/bajabirding",
       instagram: "https://www.instagram.com/rancho_laventa",
       paginaweb: "https://www.rancholaventa.com/"
+    },
+    {
+      nombre: "Casa Luna",
+      facebook: "https://www.facebook.com/profile.php?id=100093125525910",
+      instagram: "https://www.instagram.com/casalunavinos",
+      paginaweb: "https://casalunavinos.com/"
     }
   ]
 
