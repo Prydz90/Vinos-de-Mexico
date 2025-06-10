@@ -33,6 +33,12 @@ function datos() {
       instagram: "https://www.instagram.com/vinedosantodomingo/",
       paginaweb: "https://www.santodomingo.com.mx/",
     },
+    {
+      nombre: "Bodega EB7",
+      facebook: "https://www.facebook.com/bodegaeb7/",
+      instagram: "https://www.instagram.com/bodegaeb7/",
+      paginaweb: "https://www.bodegaeb7.com/santo-sepulcro",
+    }
   ];
 
   const michoacan = [
