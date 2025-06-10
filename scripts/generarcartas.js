@@ -698,6 +698,18 @@ function datos() {
       instagram: "https://www.instagram.com/cavaquintanilla/",
       paginaweb: "https://cavaquintanilla.com/",
     },
+    {
+      nombre: "La Malanca",
+      facebook: "https://www.facebook.com/laMalancaHotel",
+      instagram: "https://www.instagram.com/hacienda_la_malanca/",
+      paginaweb: "https://hotellamalanca.com.mx/inicio",
+    },
+    {
+      nombre: "Parras del altiplano",
+      facebook: "https://www.facebook.com/ParrasdelAltiplano",
+      instagram: "https://www.instagram.com/parrasdelaltiplanomx/",
+      paginaweb: "https://www.delaltiplano.mx/",
+    }
   ];
 
   const nuevoleon = [
