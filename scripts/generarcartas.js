@@ -631,6 +631,18 @@ function datos() {
       facebook: "https://www.facebook.com/profile.php?id=61564512489884",
       instagram: "https://www.instagram.com/casadequino/",
       paginaweb: "https://casadequino.com/",
+    },
+    {
+      nombre: "Vinicola Bonart",
+      facebook: "https://www.facebook.com/bodegas.bonart",
+      instagram: "https://www.instagram.com/bodegas.bonart/",
+      paginaweb: "https://www.bodegasbonart.com/",
+    },
+    {
+      nombre: "Viña Estacion",
+      facebook: "https://www.facebook.com/utnaoficial",
+      instagram: "https://www.instagram.com/utnags/",
+      paginaweb: "https://sites.google.com/utna.edu.mx/somosvid/inicio",
     }
   ];
 
