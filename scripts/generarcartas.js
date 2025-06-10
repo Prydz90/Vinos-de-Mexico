@@ -317,6 +317,12 @@ function datos() {
       facebook: "",
       instagram: "https://www.instagram.com/vitorino_casaaguinaga/",
       paginaweb: "",
+    },
+    {
+      nombre: "Bodega Gravitas",
+      facebook: "https://www.facebook.com/BodegaGravitas",
+      instagram: "https://www.instagram.com/bodegagravitas/",
+      paginaweb: "",
     }
   ];
 
