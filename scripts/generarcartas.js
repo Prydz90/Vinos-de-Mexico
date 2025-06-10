@@ -718,6 +718,12 @@ function datos() {
       facebook: "https://www.facebook.com/VinicolaMaravillas",
       instagram: "https://www.instagram.com/VinicolaMaravillas/",
       paginaweb: "",
+    },
+    {
+      nombre: "Viñas de Picachos",
+      facebook: "https://www.facebook.com/vinosdepicachos?locale=es_LA",
+      instagram: "https://www.instagram.com/vinosdepicachos/",
+      paginaweb: "",
     }
   ];
 
