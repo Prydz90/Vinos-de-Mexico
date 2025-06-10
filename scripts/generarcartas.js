@@ -973,6 +973,12 @@ function datos() {
       facebook: "https://www.facebook.com/vinos.giottonini.9",
       instagram: "https://www.instagram.com/giottonini.vinos/",
       paginaweb: "",
+    },
+    {
+      nombre: "Viñedos la Bonita",
+      facebook: "https://www.facebook.com/uvaslabonita",
+      instagram: "https://www.instagram.com/vinedoslabonita/",
+      paginaweb: "https://vinedoslabonita.com/",
     }
   ];
 
