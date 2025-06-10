@@ -1000,6 +1000,42 @@ function datos() {
       facebook: "https://www.facebook.com/profile.php?id=61563444338874&locale=es_LA",
       instagram: "https://www.instagram.com/vinicola_lavictoria",
       paginaweb: "",
+    },
+    {
+      nombre: "Cava Baltierra",
+      facebook: "https://www.facebook.com/CavaBaltierra",
+      instagram: "",
+      paginaweb: "",
+    },
+    {
+      nombre: "Viñedos Santa Clara",
+      facebook: "https://www.facebook.com/VinosSantaClaraSAdeCV",
+      instagram: "https://www.instagram.com/vinossantaclarasadecv/",
+      paginaweb: "https://vinossantaclara.com/",
+    },
+    {
+      nombre: "Vinicola Casa Chavez",
+      facebook: "https://www.facebook.com/VinicolaCasaChavez",
+      instagram: "https://www.instagram.com/vinicolacasachavez/",
+      paginaweb: "",
+    },
+    {
+      nombre: "Vitivinicola Richesse",
+      facebook: "https://www.facebook.com/profile.php?id=100063564831759",
+      instagram: "",
+      paginaweb: "",
+    },
+    {
+      nombre: "Bodegas Villalpando",
+      facebook: "https://www.facebook.com/BodegasVallesVillalpando",
+      instagram: "https://www.instagram.com/bodegasvallesvillalpando/",
+      paginaweb: "https://bodegasvallesvillalpando.com/",
+    },
+    {
+      nombre: "Casa Elica",
+      facebook: "https://www.facebook.com/casaelica",
+      instagram: "https://www.instagram.com/casaelica/",
+      paginaweb: "",
     }
   ];
 
