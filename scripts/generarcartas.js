@@ -340,10 +340,10 @@ function datos() {
 
   const guanajuato = [
     {
-      nombre: "Viñedos Pájaro Azul",
-      facebook: "https://www.facebook.com/vinosguaname",
-      instagram: "https://www.instagram.com/cavapostdata/",
-      paginaweb: "https://www.instagram.com/vinos_guaname/",
+      nombre: "Viñedos Guaname/Pájaro Azul",
+      facebook: "https://www.facebook.com/profile.php?id=61556256360992",
+      instagram: "https://www.instagram.com/bodegas_guaname/",
+      paginaweb: "https://www.vinosguaname.com/",
     },
     {
       nombre: "Viñedo Cuna de Tierra",
@@ -401,7 +401,7 @@ function datos() {
     },
     {
       nombre: "Bernat Vinicola",
-      facebook: "https://www.facebook.com/dosbuhoswinery/",
+      facebook: "https://www.facebook.com/BernatVinicola/",
       instagram: "https://www.instagram.com/bernat.vinicola/",
       paginaweb: "",
     },
@@ -459,6 +459,108 @@ function datos() {
       instagram: "https://www.instagram.com/vinobabal/",
       paginaweb: "https://www.babal.mx/",
     },
+    {
+      nombre: "Hacienda San Bernardino",
+      facebook: "http://facebook.com/HaciendaSanBernardin0/",
+      instagram: "https://www.instagram.com/vinedoh_sanbernardino/",
+      paginaweb: "https://haciendasanbernardino.com.mx/",
+    },
+    {
+      nombre: "Vinicola el Paraiso",
+      facebook: "https://www.facebook.com/vinicolaelparaiso",
+      instagram: "https://www.instagram.com/vinicola_paraiso/",
+      paginaweb: "",
+    },
+    {
+      nombre: "Viña Gamar",
+      facebook: "https://www.facebook.com/profile.php?id=61560929131224",
+      instagram: "https://www.instagram.com/vinagamarmx/",
+      paginaweb: "https://vinagamar.com/",
+    },
+    {
+      nombre: "Viña del Gran Padre",
+      facebook: "https://www.facebook.com/profile.php?id=100067812372443",
+      instagram: "",
+      paginaweb: "",
+    },
+    {
+      nombre: "Cavas Manchon",
+      facebook: "https://www.facebook.com/cavas.manchon.2025",
+      instagram: "https://www.instagram.com/cavasmanchon",
+      paginaweb: "https://enoturismo.cavasmanchon.com",
+    },
+    {
+      nombre: "Casa JIX",
+      facebook: "https://www.facebook.com/CasaJix",
+      instagram: "https://www.instagram.com/casajix/",
+      paginaweb: "https://www.casajix.com/",
+    },
+    {
+      nombre: "Los Remedios",
+      facebook: "https://www.facebook.com/LosRemediosRanchoYVinedos",
+      instagram: "https://www.instagram.com/rancho_losremedios",
+      paginaweb: "https://www.casajix.com/",
+    },
+    {
+      nombre: "Finca Rosas",
+      facebook: "https://www.facebook.com/fincarosas",
+      instagram: "https://www.instagram.com/finca_rosas/",
+      paginaweb: "",
+    },
+    {
+      nombre: "Casa Anza",
+      facebook: "",
+      instagram: "",
+      paginaweb: "https://www.casa-anza.mx/index.html",
+    },
+    {
+      nombre: "Cava Garambullo",
+      facebook: "",
+      instagram: "https://www.instagram.com/cava_garambullo/",
+      paginaweb: "",
+    },
+    {
+      nombre: "Casa Reyes",
+      facebook: "",
+      instagram: "https://www.instagram.com/casareyes_mx/",
+      paginaweb: "",
+    },
+    {
+      nombre: "El Pavo Real",
+      facebook: "https://www.facebook.com/elpavorealdelcampo/",
+      instagram: "https://www.instagram.com/elpavorealdelcampo/?hl=es",
+      paginaweb: "https://visitas.elpavoreal.com.mx/",
+    },
+    {
+      nombre: "La Santa Vid",
+      facebook: "http://facebook.com/LASANTAVID.SMA",
+      instagram: "https://www.instagram.com/lasantavid/",
+      paginaweb: "https://lasantavid.com/",
+    },
+    {
+      nombre: "Viñedos Santa Catalina",
+      facebook: "https://www.facebook.com/profile.php?id=100082880815072",
+      instagram: "https://www.instagram.com/vinedossantacatalina",
+      paginaweb: "https://tienda.vinedossanlucas.com/",
+    },
+    {
+      nombre: "Viñedos Patria",
+      facebook: "https://www.facebook.com/vinedospatriasma/",
+      instagram: "https://www.instagram.com/vinedospatria/",
+      paginaweb: "https://tienda.vinedossanlucas.com/",
+    },
+    {
+      nombre: "Zirandaro",
+      facebook: "https://www.facebook.com/ZirandaroSM",
+      instagram: "https://www.instagram.com/zirandarosm/",
+      paginaweb: "https://terrenos.zirandaro.com.mx/",
+    },
+    {
+      nombre: "Viña del Cielo",
+      facebook: "https://www.facebook.com/vinadelcielosma",
+      instagram: "https://www.instagram.com/vinadelcielosma/",
+      paginaweb: "https://www.vinadelcielo.net/",
+    }
   ];
 
   const aguascalientes = [
