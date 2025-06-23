@@ -255,6 +255,24 @@ function datos() {
       instagram: "https://www.instagram.com/Bodegasjacques/",
       paginaweb: "https://bodegasjacques.com/",
     },
+    {
+      nombre: "Fiesta Americana Hacienda Galindo",
+      facebook: "https://www.facebook.com/fahaciendagalindo",
+      instagram: "https://www.instagram.com/fahaciendagalindo",
+      paginaweb: "https://www.fiestamericanatravelty.com/fiesta-americana/hoteles/fiesta-americana-hacienda-galindo-resort-spa",
+    },
+    {
+      nombre: "Viñedo Bocca Lupo",
+      facebook: "https://www.facebook.com/people/Viedo-Bocca-Lupo/61561608265454/",
+      instagram: "https://www.instagram.com/boccalupomx/",
+      paginaweb: "https://boccalupo.com.mx/",
+    },
+    {
+      nombre: "Casa Renaldi",
+      facebook: "https://www.facebook.com/CasaRenaldi.mx",
+      instagram: "https://www.instagram.com/casarenaldi.mx",
+      paginaweb: "",
+    }
   ];
 
   const jalisco = [
