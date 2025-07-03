@@ -1213,7 +1213,7 @@ function datos() {
     },
     {
       nombre: "San Cosme Viñedos",
-      facebook: "https://www.facebook.com/ScosmeVinedos",
+      facebook: "https://www.facebook.com/sancosmevinedo",
       instagram: "https://www.instagram.com/SanCosmeVinedos/",
       paginaweb: "",
     },
@@ -1243,7 +1243,7 @@ function datos() {
     },
     {
       nombre: "Vinícola Legado Sais",
-      facebook: "https://www.facebook.com/profile.php?id=100063559601527",
+      facebook: "https://www.facebook.com/legadosais",
       instagram: "https://www.instagram.com/legadosais/",
       paginaweb: "https://legadosais.com/",
     },
@@ -1261,13 +1261,13 @@ function datos() {
     },
     {
       nombre: "Viñedos Mina Penélope",
-      facebook: "https://www.facebook.com/profile.php?id=100039894195405",
+      facebook: "https://www.facebook.com/vinedosminapenelope",
       instagram: "https://www.instagram.com/minapenelope/",
       paginaweb: "http://www.mina-penelope.com/",
     },
     {
       nombre: "Vinicola Infinito",
-      facebook: "https://www.facebook.com/vinedosminapenelope",
+      facebook: "https://www.facebook.com/vinicolainfinito",
       instagram: "https://www.instagram.com/vinicola_infinito/",
       paginaweb: "https://vinicolainfinito.mx/",
     },
@@ -1285,7 +1285,7 @@ function datos() {
     },
     {
       nombre: "Vinicola Aborigen",
-      facebook: "https://www.facebook.com/vyvamx",
+      facebook: "",
       instagram: "https://www.instagram.com/aborigen.mx/",
       paginaweb: "https://www.aborigen.com.mx/",
     },
@@ -1333,9 +1333,9 @@ function datos() {
     },
     {
       nombre: "Clos de Tres Cantos",
-      facebook: "https://www.facebook.com/profile.php?id=100057381673260",
-      instagram: "https://www.instagram.com/closdetrescantos//",
-      paginaweb: "https://clos-de-tres-cantos.negocio.site/",
+      facebook: "",
+      instagram: "https://www.instagram.com/closdetrescantos/",
+      paginaweb: "https://closdetrescantos.com/",
     },
     {
       nombre: "Vinícola Lomita",
@@ -1591,9 +1591,9 @@ function datos() {
     },
     {
       nombre: "Monte Xanic",
-      facebook: "https://www.facebook.com/vinosliceaga/",
-      instagram: "https://www.instagram.com/vinadeliceaga/",
-      paginaweb: "http://www.vinosliceaga.com/",
+      facebook: "https://www.facebook.com/MonteXanic",
+      instagram: "https://www.instagram.com/monte_xanic/",
+      paginaweb: "https://montexanic.com.mx/",
     },
     {
       nombre: "Viñedos Solar Fortún",
@@ -1706,7 +1706,7 @@ function datos() {
     {
       nombre: "Pictograma Vinos",
       facebook: "",
-      instagram: "https://www.instagram.com/pictogramavinos/",
+      instagram: "https://www.instagram.com/pictogramavinicola/",
       paginaweb: "https://pictogramavino.com/"
     },
     {
@@ -1800,12 +1800,6 @@ function datos() {
       paginaweb: ""
     },
     {
-      nombre: "Finca La Carrodilla",
-      facebook: "https://www.facebook.com/fincalacarrodilla",
-      instagram: "https://www.instagram.com/fincalacarrodilla/",
-      paginaweb: "https://fincalacarrodilla.meitre.com/"
-    },
-    {
       nombre: "Santos Brujos",
       facebook: "https://www.facebook.com/bodegamexicanacertificada/",
       instagram: "https://www.instagram.com/santosbrujos/",
@@ -1819,7 +1813,7 @@ function datos() {
     },
     {
       nombre: "Mogor Badan",
-      facebook: "https://www.facebook.com/cavavintango/",
+      facebook: "https://www.facebook.com/CavasDelMogor",
       instagram: "https://www.instagram.com/mogor.badan/",
       paginaweb: ""
     },
@@ -1966,18 +1960,6 @@ function datos() {
       facebook: "https://www.facebook.com/vinosgassol",
       instagram: "",
       paginaweb: "https://www.vinosgassol.com/"
-    },
-    {
-      nombre: "Diosa Vid",
-      facebook: "https://www.facebook.com/DiosaVid",
-      instagram: "https://www.instagram.com/diosavidvinos/",
-      paginaweb: ""
-    },
-    {
-      nombre: "Diosa Vid",
-      facebook: "https://www.facebook.com/DiosaVid",
-      instagram: "https://www.instagram.com/diosavidvinos/",
-      paginaweb: ""
     },
     {
       nombre: "Hacienda Montero",
