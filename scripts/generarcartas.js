@@ -1168,6 +1168,12 @@ function datos() {
       facebook: "https://www.facebook.com/casaelica",
       instagram: "https://www.instagram.com/casaelica/",
       paginaweb: "",
+    },
+    {
+      nombre: "Casa Vazqueño",
+      facebook: "https://www.facebook.com/profile.php?id=61562556882132",
+      instagram: "https://www.instagram.com/vinedocasavazqueno",
+      paginaweb: "https://www.casavazqueno.com/",
     }
   ];
 
