@@ -868,5 +868,11 @@ export const vinicolas = [
     facebook: "https://www.facebook.com/vinicolaos",
     instagram: "https://www.instagram.com/vinicolaos/",
     paginaweb: "https://vinicolaos.com/"
+  },
+  {
+    nombre: "Vinicola Sinopsis",
+    facebook: "https://www.facebook.com/profile.php?id=100057660780424",
+    instagram: "https://www.instagram.com/sinopsisvinicola/",
+    paginaweb: ""
   }
 ]
