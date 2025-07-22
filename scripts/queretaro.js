@@ -219,5 +219,11 @@ export const vinicolas = [
     facebook: "https://www.facebook.com/CasaRenaldi.mx",
     instagram: "https://www.instagram.com/casarenaldi.mx",
     paginaweb: "",
+  },
+  {
+    nombre: "Tierra Morada",
+    facebook: "https://www.facebook.com/profile.php?id=61565406693266",
+    instagram: "https://www.instagram.com/tierramoradabernal/",
+    paginaweb: "",
   }
 ];
