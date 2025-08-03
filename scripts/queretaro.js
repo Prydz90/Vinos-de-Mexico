@@ -225,5 +225,29 @@ export const vinicolas = [
     facebook: "https://www.facebook.com/profile.php?id=61565406693266",
     instagram: "https://www.instagram.com/tierramoradabernal/",
     paginaweb: "",
+  },
+  {
+    nombre: "Viñedos el Sueño",
+    facebook: "https://www.facebook.com/profile.php?id=100065375533397",
+    instagram: "https://www.instagram.com/vinedoselsueno/",
+    paginaweb: "https://xn--viedoselsueo-bhbj.com/",
+  },
+  {
+    nombre: "Rancho Santa Marina",
+    facebook: "https://www.facebook.com/ranchostamarina",
+    instagram: "https://www.instagram.com/ranchosantamarina/",
+    paginaweb: "https://ranchosantamarina.com/",
+  },
+  {
+    nombre: "Flor de Alfalfa ",
+    facebook: "https://www.facebook.com/FlordeAlfalfaMx",
+    instagram: "https://www.instagram.com/flordealfalfa/",
+    paginaweb: "https://www.flordealfalfa.com/",
+  },
+  {
+    nombre: "Tierra de Vida",
+    facebook: "https://www.facebook.com/vinedotierradevida",
+    instagram: "https://www.instagram.com/tierradevida.mx",
+    paginaweb: "",
   }
 ];
