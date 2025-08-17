@@ -5,12 +5,14 @@ export const vinicolas = [
     instagram:
       "https://www.instagram.com/tresarmientos/?fbclid=IwAR0jRMC4xYGn1qies55G7Zyn-ixXq7eZaifHJ2WEVAHCOennMv-_RRaWqOg",
     paginaweb: "https://vinedos-tres-sarmientos.business.site/",
+    imagen: "/queretaro/tres-sarmientos.webp"
   },
   {
     nombre: "Viñedo San Miguel Arcángel",
     facebook: "https://www.facebook.com/vidsanmiguelarcangel/",
     instagram: "",
     paginaweb: "",
+    imagen: "/queretaro/san-miguel-arcangel.webp"
   },
   {
     nombre: "Cava 57",
@@ -18,72 +20,84 @@ export const vinicolas = [
     instagram:
       "https://www.instagram.com/cava_57/?igshid=MzRlODBiNWFlZA%3D%3D",
     paginaweb: "https://cava57.com/",
+    imagen: "/queretaro/cava-57.webp"
   },
   {
     nombre: "Viñedo La Terquedad",
     facebook: "https://www.facebook.com/laterquedadmx",
     instagram: "https://www.instagram.com/laterquedadmx/",
     paginaweb: "",
+    imagen: "/queretaro/la-terquedad.webp"
   },
   {
     nombre: "Viña Magal",
     facebook: "https://www.facebook.com/vinamagal",
     instagram: "https://www.instagram.com/vinamagal/",
     paginaweb: "",
+    imagen: "/queretaro/vina-magal.webp"
   },
   {
     nombre: "María y Bernardo Casa - Viñedo",
     facebook: "https://www.facebook.com/MariayBernardo",
     instagram: "https://www.instagram.com/mariaybernardo/",
     paginaweb: "https://www.mariaybernardo.com/",
+    imagen: "/queretaro/maria-bernardo.webp"
   },
   {
     nombre: "Viñedo Los Rosales",
     facebook: "https://www.facebook.com/VinedosLosRosalesTx",
     instagram: "https://www.instagram.com/vinedoslosrosalestx/",
     paginaweb: "https://vinedoslosrosales.com/",
+    imagen: "/queretaro/los-rosales.webp"
   },
   {
     nombre: "Viñedos Puerta del Lobo",
     facebook: "https://www.facebook.com/puertadellobo",
     instagram: "https://www.instagram.com/puertadellobo/",
     paginaweb: "https://puertadellobo.mx/",
+    imagen: "/queretaro/puerta-del-lobo.webp"
   },
   {
     nombre: "San Juanito Vitivinicola",
     facebook: "https://www.facebook.com/vinosanjuanito/",
     instagram: "https://www.instagram.com/vinosanjuanito/",
     paginaweb: "https://www.sanjuanito.com.mx/",
+    imagen: "/queretaro/san-juanito.webp"
   },
   {
     nombre: "Viñedos La Redonda",
     facebook: "https://www.facebook.com/vinoslaredonda",
     instagram: "https://www.instagram.com/vinoslaredonda/",
     paginaweb: "https://www.sanjuanito.com.mx/",
+    imagen: "/queretaro/la-redonda.webp"
   },
   {
     nombre: "Viñedos Paso de Serra",
     facebook: "https://www.facebook.com/profile.php?id=100090488688208",
     instagram: "https://www.instagram.com/vinedospasodeserra/?fbclid=IwAR2LcU5nXZiRcNbRvgBOqojnOUK0q2ZAgM8iAaoJWuDSnSDcejG_4phJc_8",
     paginaweb: "https://pasodeserrabodegas.com.mx/",
+    imagen: "/queretaro/paso-de-serra.webp"
   },
   {
     nombre: "Viñedos Donato",
     facebook: "https://www.facebook.com/donatoqro",
     instagram: "https://www.instagram.com/donatoqro/",
     paginaweb: "https://donato.com.mx/",
+    imagen: "/queretaro/donato.webp"
   },
   {
     nombre: "Viñedos Azteca",
     facebook: "https://www.facebook.com/vinedosazteca/",
     instagram: "https://www.instagram.com/vinedosazteca/",
     paginaweb: "https://vinedosazteca.com/",
+    imagen: "/queretaro/azteca.webp"
   },
   {
     nombre: "Casa Vitivinícola Bodegas De Cote",
     facebook: "https://www.facebook.com/decotemx",
     instagram: "https://www.instagram.com/decotemx/",
     paginaweb: "http://www.decote.mx/",
+    imagen: "/queretaro/de-cote.webp"
   },
   {
     nombre: "Freixenet México",
@@ -91,6 +105,7 @@ export const vinicolas = [
     instagram:
       "https://instagram.com/vinedosfreixenetmexico?igshid=MzRlODBiNWFlZA==",
     paginaweb: "https://freixenetmexico.com.mx/",
+    imagen: "/queretaro/freixenet.webp"
   },
   {
     nombre: "Bodegas Vaivén",
@@ -98,42 +113,49 @@ export const vinicolas = [
     instagram: "https://www.instagram.com/bodegasvaiven/",
     paginaweb:
       "http://www.bodegasvaiven.mx/?fbclid=IwAR15fD8XIekwW55RcR88nOl5xKXeUJD534F25cfZkl0_m8KqZgOpiRVskcw",
+    imagen: "/queretaro/vaiven.webp"
   },
   {
     nombre: "Bodegas Valdozor",
     facebook: "https://www.facebook.com/bodegasvaldozor",
     instagram: "https://www.instagram.com/bodegasvaldozor/",
     paginaweb: "",
+    imagen: "/queretaro/valdozor.webp"
   },
   {
     nombre: "Casa Vegil",
     facebook: "https://www.facebook.com/casavegil1",
     instagram: "https://www.instagram.com/casavegil/",
     paginaweb: "https://casavegil.com/",
+    imagen: "/queretaro/vegil.webp"
   },
   {
     nombre: "Hacienda Amazcala",
     facebook: "https://www.facebook.com/HaciendaAmazcala",
     instagram: "https://www.instagram.com/haciendaamazcala/",
     paginaweb: "https://haciendaamazcala.com/",
+    imagen: "/queretaro/hacienda-amazcala.webp"
   },
   {
     nombre: "Hacienda Atongo",
     facebook: "https://www.facebook.com/haciendaatongo",
     instagram: "https://www.instagram.com/haciendaatongooficial/",
     paginaweb: "https://haciendaatongo.com/",
+    imagen: "/queretaro/hacienda-atongo.webp"
   },
   {
     nombre: "Hacienda Tovares",
     facebook: "https://www.facebook.com/HaciendaTovares/",
     instagram: "https://www.instagram.com/haciendatovaresqro/?hl=es-la",
     paginaweb: "https://haciendatovares.mx/contacto/",
+    imagen: "/queretaro/tovares.webp"
   },
   {
     nombre: "Hacienda la Solariega",
     facebook: "https://www.facebook.com/haciendalasolariega",
     instagram: "https://www.instagram.com/haciendalasolariega/",
     paginaweb: "https://www.haciendalasolariega.com/",
+    imagen: "/queretaro/la-solariega.webp"
   },
   {
     nombre: "Tierra de Alonso",
@@ -141,113 +163,134 @@ export const vinicolas = [
       "https://www.facebook.com/profile.php?id=100068847882788&paipv=0&eav=AfbBgDSAQLClLynnmITOv4LqmvZq3PVqP_GNjb1v-lfokKY9ou6vg_qbjti66oQwqX0",
     instagram: "https://www.instagram.com/tierradealonso/",
     paginaweb: "https://www.tierradealonso.com/",
+    imagen: "/queretaro/tierra-de-alonso.webp"
   },
   {
     nombre: "Tierra de Peña",
     facebook: "https://www.facebook.com/TierraDeP",
     instagram: "https://www.instagram.com/tierradepena/",
     paginaweb: "http://xn--tierradepea-beb.com/",
+    imagen: "/queretaro/tierra-de-pena.webp"
   },
   {
     nombre: "Vinaltura",
     facebook: "https://www.facebook.com/vinaltura/",
     instagram: "https://www.instagram.com/vinaltura/",
     paginaweb: "https://www.vinaltura.mx/",
+    imagen: "/queretaro/vinaltura.webp"
   },
   {
     nombre: "Vinicola Tequisquiapan",
     facebook: "https://www.facebook.com/DeliceCatembe/photos",
     instagram: "https://www.instagram.com/vinicola_tequisquiapan_/",
     paginaweb: "",
+    imagen: "/queretaro/tequisquiapan.webp"
   },
   {
     nombre: "Vinos del Marques",
     facebook: "https://www.facebook.com/vinosdelmarques/",
     instagram: "https://www.instagram.com/vinosdelmarques/",
     paginaweb: "https://www.vinosdelmarques.com/",
+    imagen: "/queretaro/del-marques.webp"
   },
   {
     nombre: "Vinicola San Patricio",
     facebook: "https://www.facebook.com/vinicolasanpatricio",
     instagram: "https://www.instagram.com/vinicolasanpatricio/",
     paginaweb: "https://www.vinicolasp.com.mx/",
+    imagen: "/queretaro/san-patricio.webp"
   },
   {
     nombre: "Vina del cielo",
     facebook: "https://www.facebook.com/vinadelcielo",
     instagram: "https://www.instagram.com/vinadelcielo/",
     paginaweb: "https://www.vinadelcielo.mx/",
+    imagen: "/queretaro/del-cielo.webp"
   },
   {
     nombre: "Norte B",
     facebook: "https://www.facebook.com/norteb.mx/",
     instagram: "https://www.instagram.com/norteb.mx/",
     paginaweb: "https://norteb.mx/",
+    imagen: "/queretaro/norte-b.webp"
   },
   {
     nombre: "Viñedo La Revuelta",
     facebook: "https://www.facebook.com/LaRevueltaVineyard",
     instagram: "https://www.instagram.com/larevuelta_vineyard_btq/",
     paginaweb: "https://larevuelta.com.mx/",
+    imagen: "/queretaro/la-revuelta.webp"
   },
   {
     nombre: "Viñedos del Jagüey",
     facebook: "https://www.facebook.com/profile.php?id=61551428327684&sk=photos",
     instagram: "https://www.instagram.com/vinedosdeljaguey/",
     paginaweb: "",
+    imagen: "/queretaro/jaguey.webp"
   },
   {
     nombre: "Bodegas Jacques & Cie",
     facebook: "https://www.facebook.com/BodegasJacques",
     instagram: "https://www.instagram.com/Bodegasjacques/",
     paginaweb: "https://bodegasjacques.com/",
+    imagen: "/queretaro/jacques.webp"
   },
   {
     nombre: "Fiesta Americana Hacienda Galindo",
     facebook: "https://www.facebook.com/fahaciendagalindo",
     instagram: "https://www.instagram.com/fahaciendagalindo",
     paginaweb: "https://www.fiestamericanatravelty.com/fiesta-americana/hoteles/fiesta-americana-hacienda-galindo-resort-spa",
+    imagen: "/queretaro/galindo.webp"
   },
   {
     nombre: "Viñedo Bocca Lupo",
     facebook: "https://www.facebook.com/people/Viedo-Bocca-Lupo/61561608265454/",
     instagram: "https://www.instagram.com/boccalupomx/",
     paginaweb: "https://boccalupo.com.mx/",
+    imagen: "/queretaro/bocca-lupo.webp"
   },
   {
     nombre: "Casa Renaldi",
     facebook: "https://www.facebook.com/CasaRenaldi.mx",
     instagram: "https://www.instagram.com/casarenaldi.mx",
     paginaweb: "",
+    imagen: "/queretaro/renaldi.webp"
   },
   {
     nombre: "Tierra Morada",
     facebook: "https://www.facebook.com/profile.php?id=61565406693266",
     instagram: "https://www.instagram.com/tierramoradabernal/",
     paginaweb: "",
+    imagen: "/queretaro/tierra-morada.webp"
   },
   {
     nombre: "Viñedos el Sueño",
     facebook: "https://www.facebook.com/profile.php?id=100065375533397",
     instagram: "https://www.instagram.com/vinedoselsueno/",
     paginaweb: "https://xn--viedoselsueo-bhbj.com/",
+    imagen: "/queretaro/sueno.webp"
   },
   {
     nombre: "Rancho Santa Marina",
     facebook: "https://www.facebook.com/ranchostamarina",
     instagram: "https://www.instagram.com/ranchosantamarina/",
     paginaweb: "https://ranchosantamarina.com/",
+    imagen: "/queretaro/santa-marina.webp"
   },
   {
     nombre: "Flor de Alfalfa ",
     facebook: "https://www.facebook.com/FlordeAlfalfaMx",
     instagram: "https://www.instagram.com/flordealfalfa/",
     paginaweb: "https://www.flordealfalfa.com/",
+    imagen: "/queretaro/alfalfa.webp"
   },
   {
     nombre: "Tierra de Vida",
     facebook: "https://www.facebook.com/vinedotierradevida",
     instagram: "https://www.instagram.com/tierradevida.mx",
     paginaweb: "",
+    imagen: "/queretaro/tierra-de-vida.webp"
   }
 ];
+
+console.log(vinicolas.length);

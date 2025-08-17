@@ -6,12 +6,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/css/estados.css">
   <link rel="shortcut icon" href="/assets/icons/copas.jpeg">
-  <title>Coahuila</title>
-
+  <title>Directorio de Viñedos Mexicanos</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
-  <header class="estado">Coahuila</header>
+  <header class="estado">Coahuila</header><!-- Page Loader -->
+  <div class="page-loader" id="pageLoader">
+    <div class="wine-spinner">
+      <div class="wine-glass">🍷</div>
+      <div class="wine-drops">
+        <div class="wine-drop"></div>
+        <div class="wine-drop"></div>
+        <div class="wine-drop"></div>
+        <div class="wine-drop"></div>
+      </div>
+      <div class="spinner-ring"></div>
+    </div>
+    <h2 class="page-loader-title">Directorio de Viñedos</h2>
+    <p class="page-loader-subtitle">Cargando los mejores viñedos de México</p>
+  </div>
+
+  <header id="header">
+    <nav class="container">
+      <a href="index.html" class="logo">Viñedos de México</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="index.html#about">Acerca</a></li>
+        <li><a href="index.html#regions">Regiones</a></li>
+        <li><a href="coahuila.html" class="active">Coahuila</a></li>
+        <li><a href="index.html#mapa">Mapa</a></li>
+      </ul>
+      <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <h1 class="hero-title estado">Coahuila</h1>
+      </div>
+    </div>
+  </section>
+
+  <section class="vineyards-section">
+    <div class="section-header">
+      <h2 class="section-title">Nuestros Viñedos Registrados</h2>
+      <p class="section-subtitle">Cada viñedo cuenta una historia única de tradición, pasión y excelencia</p>
+    </div>
+  </section>
   <main>
     <div>
       <section class="js-layout2">
@@ -19,10 +62,29 @@
       </section>
     </div>
   </main>
-  <footer class="footer">
-    <button class="regresar" onclick="window.location.href='/index.html'">
-      Regresar al mapa
-    </button>
+  <button class="regresar" onclick="window.location.href='/index.html'">
+    Regresar al mapa
+  </button>
+
+  <footer id="contact">
+    <div class="container">
+      <p>La información presentada en este sitio web tiene fines exclusivamente informativos y de referencia. Aunque nos
+        esforzamos por mantener los datos actualizados y precisos, no garantizamos la exactitud, integridad o vigencia
+        de los contenidos relacionados con las vinícolas, sus servicios, horarios, ubicaciones o cualquier otro detalle
+        operativo.</p>
+      <p>
+        Este sitio no está afiliado ni representa oficialmente a ninguna vinícola, bodega o entidad turística. Las
+        decisiones de visita, compra o contacto con las vinícolas deben realizarse directamente con los establecimientos
+        correspondientes.
+      </p>
+      <p>
+        Recomendamos verificar la información directamente con cada vinícola antes de planear una visita o realizar
+        cualquier transacción. El uso de este sitio implica la aceptación de estos términos.
+      </p>
+      <div class="footer-bottom">
+        <p>&copy; 2025 Viñedos de México. Todos los derechos reservados.</p>
+      </div>
+    </div>
   </footer>
 </body>
 <script src="/scripts/generarcartas.js">
