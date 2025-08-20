@@ -574,7 +574,7 @@ export const vinicolas = [
     imagen: "/bcn/icaro.webp"
   },
   {
-    nombre: "Espitirus Enologicos",
+    nombre: "Espiritus Enologicos",
     facebook: "https://www.facebook.com/espiritusenologicos",
     instagram: "https://www.instagram.com/espiritusenologicos/",
     paginaweb: "https://espiritusenologicos.com.mx/",
