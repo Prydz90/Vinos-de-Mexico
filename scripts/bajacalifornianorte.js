@@ -569,14 +569,14 @@ export const vinicolas = [
   {
     nombre: "Bodegas Icaro",
     facebook: "https://www.facebook.com/profile.php?id=100063700442619",
-    instagram: "https://www.instagram.com/espiritusenologicos/",
+    instagram: "https://www.instagram.com/bodegas_icaro/?hl=en",
     paginaweb: "https://bodegasicaro.com/",
     imagen: "/bcn/icaro.webp"
   },
   {
     nombre: "Espitirus Enologicos",
     facebook: "https://www.facebook.com/espiritusenologicos",
-    instagram: "https://www.instagram.com/bodegas_icaro/?hl=en",
+    instagram: "https://www.instagram.com/espiritusenologicos/",
     paginaweb: "https://espiritusenologicos.com.mx/",
     imagen: "/bcn/espiritus.webp"
   },
