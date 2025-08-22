@@ -257,6 +257,13 @@ export const vinicolas = [
     instagram: "https://www.instagram.com/vinadelcielosma/",
     paginaweb: "https://www.vinadelcielo.net/",
     imagen: "/guanajuato/vina-del-cielo.webp"
+  },
+  {
+    nombre: "Cava Ortiz",
+    facebook: "https://www.facebook.com/profile.php?id=100084917779380",
+    instagram: "https://www.instagram.com/cava_ortiz",
+    paginaweb: "",
+    imagen: "/guanajuato/cava-ortiz.webp"
   }
 ];
 

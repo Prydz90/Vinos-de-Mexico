@@ -1021,6 +1021,13 @@ export const vinicolas = [
     instagram: "https://www.instagram.com/sinopsisvinicola/",
     paginaweb: "",
     imagen: "/bcn/sinopsis.webp"
+  },
+  {
+    nombre: "Tablas Taller Agricola",
+    facebook: "",
+    instagram: "https://www.instagram.com/tablastalleragricola/",
+    paginaweb: "https://tablas.com.mx/",
+    imagen: "/bcn/tablas-taller-agricola.webp"
   }
 ]
 
